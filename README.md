@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Orbinator
-- 👀 I’m interested in Bioinformatics for mass spectrometry-based Proteomics applications
+- 👋 Hi, I’m @halterc
+- 👀 I’m interested in Bioinformatics for scRNA-seq transcriptomics and mass spectrometry-based Proteomics applications
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on (Prote)omics applications
 - 📫 How to reach me ...
